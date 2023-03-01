@@ -15,4 +15,4 @@ I'm a software developer who is passionate about creating technology to elevate 
   - Laravel
   - Javascript
   - ReactJS
-<!-- - 💬 Ask me about **ReactJs and Frontend** -->
+- 😍 A man who loves software development
