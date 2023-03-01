@@ -12,7 +12,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 
 - 🔭 I'm a software developer in Bursa, Turkey.
 - 🔍 Technologies I work with:
-  - Laravel
-  - Javascript
-  - ReactJS
+  - First
+  - Second
+  - Third
 - 😍 A man who loves software development.
